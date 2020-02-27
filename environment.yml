@@ -5,4 +5,14 @@ channels:
 
 dependencies:
   - pip:
-    -r requirements.txt
+  - bs4
+  - tqdm
+  - notebook
+  - numpy
+  - jupyter-book
+  - datascience
+  - pyyaml
+  - ruamel.yaml
+  - nbformat
+  - nbclean
+  - nbgitpuller
