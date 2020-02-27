@@ -1,14 +1,8 @@
-name: example-environment
+name: textbook
+
 channels:
   - conda-forge
+
 dependencies:
-  - numpy
-  - psutil
-  - toolz
-  - ruamel.yaml
-  - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
+  - pip:
+    -r requirements.txt
