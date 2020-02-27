@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - psutil
   - toolz
+  - ruamel.yaml
   - matplotlib
   - dill
   - pandas
