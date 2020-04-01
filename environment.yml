@@ -9,8 +9,6 @@ dependencies:
   - tqdm
   - notebook
   - numpy
-  - jupyter-book
-  - datascience
   - pyyaml
   - ruamel.yaml
   - nbformat
